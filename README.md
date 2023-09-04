@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Etanielcaus
-- 👀 I’m interested in study python
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+Olá, me chamo Etaniel.
+Estou estudando Python e fazendo Análise e Desenvolvimento de Sistemas.
+Meu objetivo é trabalhar na área, e me aprofundar cada vez mais nos conhecimentos.
 
 <!---
 Etanielcaus/Etanielcaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
