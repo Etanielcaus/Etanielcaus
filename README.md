@@ -8,7 +8,7 @@
 ## Sobre mim
 Olá, sou um profissional altamente motivado e com uma paixão para resolver problemas. Estou cursando Análise e desenvolvimento de sistemas, estou sempre buscando inovar nas minhas habilidades.
 Estou em busca de uma nova oportunidade para me dedicar inteiramente, mostrar qualidade e vontade.
-Considero a habilidade mais importante, ouvir e trabalhar em equipe, afinal é a equipe que constrói a empresa, e garante qualidade. 
+Considero a habilidade mais importante, ouvir e trabalhar em equipe, afinal é a equipe que constrói a empresa.
 
 
 ## Stacks
