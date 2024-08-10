@@ -6,26 +6,19 @@
   </div>
 
 ## Sobre mim
-Olá, sou um profissional altamente motivado e com uma paixão para resolver problemas. Estou cursando Análise e desenvolvimento de sistemas, estou sempre buscando inovar nas minhas habilidades.
-Estou em busca de uma nova oportunidade para me dedicar inteiramente, mostrar qualidade e vontade.
-Considero a habilidade mais importante, ouvir e trabalhar em equipe, afinal é a equipe que constrói a empresa.
+Olá, sou um apaixonado por tecnologia, buscando aprimorações na área de BackEnd com foco em Java.
+Cursando Análise e desenvolvimento de sistemas.<br />
+Atualmente trabalho com programação em torno CNC (g-code), também no controle de qualidade de produtos de aluminio em uma fábrica de minha cidade.
 
+## Objetivo
+Entrar na área de programação é meu objetivo. Aliar essa paixão por tecnologia com a possibilidade dessa atividade se tornar rentável.  
 
 ## Stacks
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-
-## 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Etanielcaus)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Etanielcaus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/etanielzuffocaus)
