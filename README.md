@@ -1,6 +1,7 @@
 <h1> <img alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdjYjNobjhkdmEyM3VubHV2MXZjbGY0bWlvbWt4dzNiZ2ZmNWtkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4JtXt9i56Wp6U/giphy.gif" width="50"> Etaniel Caus </h1>
 
 <div id="header" align="center"> 
+
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F76D&width=435&lines=Hello%2C+world!)](https://git.io/typing-svg)
   </div>
