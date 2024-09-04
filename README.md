@@ -7,6 +7,8 @@
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F76D&width=300&lines=Hello%2C+world!)](https://git.io/typing-svg)
   </div>
+
+  
 ## Sobre mim
 Olá, sou um apaixonado por tecnologia, buscando aprimorações na área de BackEnd com foco em Java.
 Cursando Análise e desenvolvimento de sistemas.<br />
