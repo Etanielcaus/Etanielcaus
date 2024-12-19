@@ -14,8 +14,10 @@ Olá, sou um apaixonado por tecnologia, buscando aprimorações na área de Back
 Cursando Análise e desenvolvimento de sistemas.<br />
 Atualmente trabalho com programação em torno CNC (g-code), também no controle de qualidade de produtos de aluminio em uma fábrica de minha cidade.
 
+
 ## Objetivo
 Entrar na área de programação é meu objetivo. Aliar essa paixão por tecnologia com a possibilidade dessa atividade se tornar rentável.  
+
 
 ## Stacks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
