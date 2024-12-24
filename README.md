@@ -1,4 +1,4 @@
-<h1> <img alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdjYjNobjhkdmEyM3VubHV2MXZjbGY0bWlvbWt4dzNiZ2ZmNWtkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4JtXt9i56Wp6U/giphy.gif" width="50"> Etaniel Caus </h1>
+<h1> <img alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdjYjNobjhkdmEyM3VubHV2MXZjbGY0bWlvbWt4dzNiZ2ZmNWtkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4JtXt9i56Wp6U/giphy.gif" width="50">   Etaniel Caus </h1>
 
 <div id="header" align="center"> 
 
