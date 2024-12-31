@@ -1,23 +1,18 @@
 <h1> <img alt="Gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdjYjNobjhkdmEyM3VubHV2MXZjbGY0bWlvbWt4dzNiZ2ZmNWtkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4JtXt9i56Wp6U/giphy.gif" width="50">   Etaniel Caus </h1>
 
 <div id="header" align="center"> 
-
-
 </br>
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F76D&width=300&lines=Hello%2C+world!)](https://git.io/typing-svg)
   </div>
 
-  
 ## Sobre mim
 Olá, sou um apaixonado por tecnologia, buscando aprimorações na área de BackEnd com foco em Java.
 Cursando Análise e desenvolvimento de sistemas.<br />
 Atualmente trabalho com programação em torno CNC (g-code), também no controle de qualidade de produtos de aluminio em uma fábrica de minha cidade.
 
-
 ## Objetivo
 Entrar na área de programação é meu objetivo. Aliar essa paixão por tecnologia com a possibilidade dessa atividade se tornar rentável.  
-
 
 ## Stacks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
